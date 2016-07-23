@@ -1,0 +1,14 @@
+layout_spectrum: 0.1364507
+typography_spectrum: 0.7697958
+color:
+  lightness: 0.7178604
+  brandStrength: 0.1230556
+  saturation: 0.7740031
+  rhythmicContrast: 0.1093072
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: ThePT
