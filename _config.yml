@@ -1,14 +1,26 @@
-layout_spectrum: 0.1364507
-typography_spectrum: 0.7697958
+layout_spectrum: 0.2276596
+name: ThePT
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.7178604
-  brandStrength: 0.1230556
-  saturation: 0.7740031
-  rhythmicContrast: 0.1093072
+  brandStrength: 0.5042553
+  lightness: 0
+  saturation: 0.2574468
+  rhythmicContrast: 0.4574468
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-name: ThePT
+typography_spectrum: 0.9319149
